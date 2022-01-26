@@ -1,7 +1,7 @@
 ### Hello 👋
 
-🔭 I’m currently working on a CSGO website including an observerhud, livecams, and game server integration.
-📫 Reach me at: @marcusnerloe
+- 🔭 I’m currently working on a CSGO website including an observerhud, livecams, and game server integration.
+- 📫 Reach me at: [@marcusnerloe](https://twitter.com/marcusnerloe)
 
 <a href="https://github.com/nerloe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerloe&show_icons=true&theme=github_dark&count_private=true" alt="NERLOE's github stats" />
