@@ -1,7 +1,5 @@
 ### Halløj 👋
 
-![Metrics](/github-metrics.svg)
-
 <a href="https://github.com/nerloe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerloe&show_icons=true&theme=ayu-mirage&count_private=true" alt="NERLOE's github stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerloe&theme=ayu-mirage&layout=compact" alt="NERLOE's github top languages" />
