@@ -1,8 +1,8 @@
 ### Halløj 👋
 
 <a href="https://github.com/nerloe">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerloe&show_icons=true&theme=dark&count_private=true" alt="NERLOE's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerloe&theme=dark&layout=compact" alt="NERLOE's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerloe&show_icons=true&theme=github_dark&count_private=true" alt="NERLOE's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerloe&theme=github_dark&layout=compact" alt="NERLOE's github top languages" />
 </a>
 <br/>
 
