@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on a CSGO website including an observerhud, livecams, and game server integration. Follow progress at [csgo.minetech.dk](https://csgo.minetech.dk)
+- 🔭 I’m currently working on a monorepo, including an app and a website.
 - 📫 Reach me at: [@marcusnerloe](https://twitter.com/marcusnerloe)
 
 <a href="https://github.com/nerloe">
