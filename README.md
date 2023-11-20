@@ -6,7 +6,7 @@
 Take a look at my recent projects:
 - [robotbar.dk](https://robotbar.dk) (A fully automatic bar, where you order through our website) - Private Repository
 - [analyticz.marcusnerloe.dk](https://analyticz.marcusnerloe.dk/analyticz.marcusnerloe.dk) (A web traffic analyser website) - Public Repository
-- [partyqueue.marcusnerloe.dk](https://partyqueue.marcusnerloe.dk/queue/cl6tt077a0199tsu156mh598m) (A jukebox website, for hosting parties, allowing your guests to add songs to the queue) - Private Repository
+- [partyqueue.marcusnerloe.dk](https://partyqueue.dk/queue/cl6tt077a0199tsu156mh598m) (A jukebox website, for hosting parties, allowing your guests to add songs to the queue) - Private Repository
 
 <a href="https://github.com/nerloe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nerloe&show_icons=true&theme=github_dark&count_private=true" alt="NERLOE's github stats" />
